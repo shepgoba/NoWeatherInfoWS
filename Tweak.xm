@@ -1,3 +1,3 @@
 %hook WGWidgetAttributionView
-- (void)layoutSubviews {}
+	-(void)_configureAttributedString {}
 %end
